@@ -42,6 +42,7 @@ Here are some of the skills and technologies I work with:
 
 Feel free to connect with me on the following platforms:
 
+- Linked: [Kien Cao](https://www.linkedin.com/in/bobo009)
 - GitHub: [wibu009](https://github.com/wibu009)
 - Email: kienct.work@gmail.com
 
