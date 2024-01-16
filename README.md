@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kien, but you can call me Jack. I'm a web developer currently working at Avepoint. I'm passionate about building robust and scalable web applications using C#.<br>- 💼 Currently working at: Avepoint as a Software Developer (July 2023 - Present)<br>- 👨‍💻 Profession: Full Stack Web Developer<br>- 💻 Favorite Programming Language: C#
+I'm Kien, but you can call me Jack. I'm a software developer currently working at Avepoint. I'm passionate about building robust and scalable web applications using C#.<br>- 💼 Currently working at: Avepoint as a Software Developer (July 2023 - Present)<br>- 👨‍💻 Profession: Developer<br>- 💻 Favorite Programming Language: C#
 
 
 ## 🌐 Socials:
