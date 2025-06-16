@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm **Kien** – but feel free to call me **Jack**!  
-I'm a passionate software developer currently crafting robust and scalable web applications at **AvePoint**.
+I'm a passionate software developer currently crafting robust and scalable web applications at **[AvePoint](https://www.avepoint.com)**.
 
-- 💼 **Software Developer @ AvePoint** (Since July 2023)  
+- 💼 **Software Developer @ [AvePoint GitHub](https://github.com/jack-cao-avepoint)** (Since July 2023)  
 - 💻 **Loves coding in:** C#  
 - 🚀 **Always exploring** new tech and building clean, maintainable solutions  
 
