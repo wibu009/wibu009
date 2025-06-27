@@ -7,7 +7,7 @@ I'm a passionate software developer currently crafting robust and scalable web a
 - 🚀 **Always exploring** new tech and building clean, maintainable solutions  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wibu009&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wibu009&theme=nightowl&hide_border=false&include_all_commits=true)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wibu009&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
